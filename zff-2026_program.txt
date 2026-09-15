@@ -1,0 +1,396 @@
+# Film Datum Beginn Ende Film Länge Location Sektion Sprache Untertitel
+MINOTAUR 24.09.2026 17:30 19:55 140 Arthouse Le Paris Gala Premieren Russisch de
+TENZING 24.09.2026 17:45 20:08 128 Corso 1 Gala Premieren Englisch de
+TIME AND WATER 24.09.2026 18:00 19:39 94 KINOKONI 1 NOW/FUTURE Englisch, Isländisch de
+ONCE UPON A TIME IN HARLEM 24.09.2026 18:00 19:45 100 Arthouse Piccadilly Signatures Englisch en
+THE MATCH 24.09.2026 18:15 19:48 88 KINOKONI 3 Dokumentarfilm-Wettbewerb Englisch de
+THE END OF IT 24.09.2026 18:30 20:17 102 KINOKONI 6 Hashtag #artificialintelligence Englisch
+# FINDING CONNECTION 24.09.2026 18:45 20:16 86 KINOKONI 2 Hashtag #artificialintelligence Englisch, Deutsch Englisch, Deutsch
+FINDING CONNECTION 24.09.2026 18:45 20:16 86 KINOKONI 2 Hashtag #artificialintelligence Englisch, Deutsch en, de
+A GIRL UNKNOWN 24.09.2026 20:15 22:25 125 Arthouse Piccadilly Spielfilm-Wettbewerb Chinesisch en, de, fr
+LA BOLA NEGRA 24.09.2026 20:15 22:55 155 KINOKONI 1 Signatures Spanisch, Französisch de
+POSSIBLE LOVE 24.09.2026 20:30 23:19 164 Arthouse Le Paris Gala Premieren Koreanisch de, en
+THE GYMNASTS OF FISHERMAN COLONY 24.09.2026 20:30 22:07 92 KINOKONI 3 Dokumentarfilm-Wettbewerb Urdu, Bengalisch, Englisch en, de
+HA-CHAN, SHAKE YOUR BOOTY! 24.09.2026 20:45 22:52 122 KINOKONI 2 Sounds Englisch, Japanisch, Spanisch de
+GENTLE MONSTER 24.09.2026 21:00 22:59 114 KINOKONI 6 Signatures Deutsch, Englisch, Französisch de, fr
+THE WEIGHT 24.09.2026 21:00 23:10 115 Corso 1 Gala Premieren Englisch de
+FLESH AND FUEL 25.09.2026 17:45 19:40 90 Corso 2 Spielfilm-Wettbewerb Französisch, Englisch, Polnisch de, en
+LA DéTENTION 25.09.2026 17:45 20:23 133 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Französisch en, de
+DEREK VS. DEREK 25.09.2026 17:45 19:18 88 KINOKONI 2 NOW/FUTURE Englisch de
+I PLAY ROCKY 25.09.2026 18:00 20:28 128 Kongresssaal Gala Premieren Englisch de, fr
+WE ARE BORN GOOD 25.09.2026 18:00 19:46 96 KINOKONI 3 Signatures Kantonesisch zh, en
+MILA / MARIJA 25.09.2026 18:00 20:20 110 Corso 4 Spielfilm-Wettbewerb Slowenisch, Englisch, Deutsch de, en
+POSSIBLE LOVE 25.09.2026 18:00 20:49 164 Arena 4 Gala Premieren Koreanisch de, en
+PERFECT ROAD 25.09.2026 18:15 20:16 91 KINOKONI 6 Dokumentarfilm-Wettbewerb Englisch, Französisch en, de
+BUCKING FASTARD 25.09.2026 18:15 20:09 109 Arena 3 Signatures Englisch
+A BIT OF LIGHT 25.09.2026 18:15 20:07 87 Arthouse Le Paris Gala Premieren Persisch de, fr
+SUCCEDERà QUESTA NOTTE 25.09.2026 18:15 20:23 103 Corso 1 Gala Premieren Italienisch, Englisch, Spanisch de
+A LONG WINTER 25.09.2026 18:30 20:32 117 KINOKONI 1 Signatures Englisch
+FINDING CONNECTION 25.09.2026 19:00 20:31 86 Corso 3 Hashtag #artificialintelligence Deutsch, Englisch
+AI: PROBABLY NOTHING TO WORRY ABOUT 25.09.2026 20:00 22:33 128 KINOKONI 2 Hashtag #artificialintelligence Englisch en
+BLACK CHURCH BAY 25.09.2026 20:30 22:47 107 Corso 2 Spielfilm-Wettbewerb Englisch de
+THE GYMNASTS OF FISHERMAN COLONY 25.09.2026 20:30 22:07 92 KINOKONI 3 Dokumentarfilm-Wettbewerb Urdu, Bengalisch, Englisch en, de
+EL DESHIELO 25.09.2026 20:45 22:58 108 KINOKONI 6 Spielfilm-Wettbewerb Spanisch, Englisch, Deutsch de, en, fr
+TECHPLOMACY 25.09.2026 20:45 22:43 93 Corso 4 Hashtag #artificialintelligence Englisch, Dänisch en
+RITORNO A BUENOS AIRES 25.09.2026 20:45 22:54 104 Arthouse Le Paris Gala Premieren Italienisch de, fr
+DAZED AND CONFUSED 25.09.2026 20:45 22:32 102 Filmpodium Retrospektive: Richard Linklater Englisch de
+WILD HORSE NINE 25.09.2026 21:00 23:28 118 Corso 1 Gala Premieren Englisch de, fr
+HOT WATER 25.09.2026 21:00 23:02 97 KINOKONI 1 Spielfilm-Wettbewerb Englisch, Arabisch, Französisch en, de
+COLD WAR 1994 25.09.2026 21:00 23:02 117 Arena 3 Signatures Kantonesisch zh, en
+THE DEBUT 25.09.2026 21:15 23:30 105 Kongresssaal Gala Premieren Englisch de, fr
+WE ARE STARDUST 25.09.2026 21:15 23:21 101 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch, Norwegisch en, de
+THE WEIGHT 25.09.2026 21:15 23:15 115 Arena 4 Gala Premieren Englisch de
+DAS GEHEIMNIS DER GESTOHLENEN MASKE 26.09.2026 10:30 12:35 100 Arena 3 ZFF für Kinder Deutsch
+# ATLAS 26.09.2026 10:45 11:45 KINOKONI 2 ZFF für Kinder Englisch
+ATLAS 26.09.2026 10:45 11:45 - KINOKONI 2 ZFF für Kinder Englisch
+MIRA 26.09.2026 12:00 13:30 85 Arena 4 ZFF für Kinder Deutsch (Synchronfassung)
+RITORNO A BUENOS AIRES 26.09.2026 12:30 14:39 104 KINOKONI 6 Gala Premieren Italienisch de, fr
+HOT WATER 26.09.2026 12:45 14:47 97 KINOKONI 1 Spielfilm-Wettbewerb Englisch, Arabisch, Französisch en, de
+TECHPLOMACY 26.09.2026 13:00 14:58 93 KINOKONI 2 Hashtag #artificialintelligence Englisch, Dänisch en
+MINOTAUR 26.09.2026 13:00 15:25 140 Corso 2 Gala Premieren Russisch de
+EXTRAORDINARY 26.09.2026 13:15 14:43 83 Arena 3 ZFF für Kinder Kroatisch, Deutsch live eingesprochen
+EL DESHIELO 26.09.2026 13:15 15:28 108 Corso 4 Spielfilm-Wettbewerb Spanisch, Englisch, Deutsch de, en, fr
+LA DéTENTION 26.09.2026 14:30 17:08 133 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch en, de
+AI: PROBABLY NOTHING TO WORRY ABOUT 26.09.2026 15:15 17:48 128 Arthouse Piccadilly Hashtag #artificialintelligence Englisch en
+SUCCEDERà QUESTA NOTTE 26.09.2026 15:15 17:23 103 KINOKONI 1 Gala Premieren Italienisch, Englisch, Spanisch de
+EVERYTIME 26.09.2026 15:30 17:54 119 KINOKONI 6 Signatures Deutsch, Spanisch de, fr
+WE ARE BORN GOOD 26.09.2026 15:30 17:11 96 KINOKONI 2 Signatures Kantonesisch zh, en
+A BIT OF LIGHT 26.09.2026 15:30 17:22 87 Arthouse Le Paris Gala Premieren Persisch de, fr
+NOT A HERO 26.09.2026 15:45 17:28 98 Arena 3 ZFF für Kinder Assamesisch, Hindi, Englisch, Deutsch live eingesprochen
+PERFECT ROAD 26.09.2026 16:00 17:56 91 Corso 4 Dokumentarfilm-Wettbewerb Englisch, Französisch en, de
+SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM 26.09.2026 16:15 17:51 91 Corso 2 Signatures Englisch de
+GHOST IN THE MACHINE 26.09.2026 17:30 19:31 96 Corso 3 Hashtag #artificialintelligence Englisch en
+OUR SHARE OF SAND 26.09.2026 17:45 19:45 95 KINOKONI 2 NOW/FUTURE Englisch, Hindi, Marathi en
+HA-CHAN, SHAKE YOUR BOOTY! 26.09.2026 17:45 19:52 122 Arena 4 Sounds Englisch, Japanisch, Spanisch de
+THE ONLY LIVING PICKPOCKET IN NEW YORK 26.09.2026 18:00 19:58 88 Corso 1 Gala Premieren Englisch de
+THE HOUSEWIFE 26.09.2026 18:00 20:12 102 Kongresssaal Gala Premieren Englisch de
+QUEEN AT SEA 26.09.2026 18:00 20:26 121 Arthouse Le Paris Gala Premieren Englisch de, fr
+DIE BLUTGRäFIN 26.09.2026 18:00 20:24 119 KINOKONI 3 Signatures Deutsch, Frazösisch
+ENJOY YOUR STAY 26.09.2026 18:15 20:19 99 KINOKONI 1 NOW/FUTURE Englisch, Französisch, Tagalog de
+FROM INSIDE OUT - DIE ARCHITEKTUR VON PETER ZUMTHOR 26.09.2026 18:30 20:59 114 Arena 3 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de, en
+DIE IDEEN 26.09.2026 18:30 20:50 110 Corso 2 Spielfilm-Wettbewerb Deutsch, Englisch, Schwedisch en, de
+KNIFE: THE ATTEMPTED MURDER OF SALMAN RUSHDIE 26.09.2026 18:30 20:22 107 KINOKONI 6 NOW/FUTURE Englisch en
+SERIFE TAVSAN 26.09.2026 18:30 20:45 105 Corso 4 Spielfilm-Wettbewerb Türkisch de, en
+WE ARE STARDUST 26.09.2026 18:30 20:36 101 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch, Norwegisch en, de
+NOUVELLE VAGUE 26.09.2026 18:30 20:22 107 Filmpodium Retrospektive: Richard Linklater Französisch, Englisch de
+CLUB KID 26.09.2026 20:30 22:57 122 Corso 1 Gala Premieren Englisch de, fr
+BACKROOMS 26.09.2026 20:30 22:35 110 Arena 4 Special Screenings Englisch de, fr
+RESCUE 26.09.2026 20:30 22:17 82 KINOKONI 2 NOW/FUTURE Arabisch, Englisch, Italienisch, Deutsch en, de
+BLACK CHURCH BAY 26.09.2026 20:45 22:57 107 KINOKONI 1 Spielfilm-Wettbewerb Englisch de
+BUNKER 26.09.2026 21:00 23:21 126 Kongresssaal Gala Premieren Spanisch, Englisch de
+MILA / MARIJA 26.09.2026 21:00 23:15 110 KINOKONI 3 Spielfilm-Wettbewerb Slowenisch, Englisch, Deutsch de, en
+HOPE 26.09.2026 21:00 23:45 160 Arthouse Le Paris Gala Premieren Koreanisch de
+SUMO: SPIRIT WEIGHS NOTHING 26.09.2026 21:15 23:19 99 KINOKONI 6 Dokumentarfilm-Wettbewerb Japanisch, Mongolisch en, de
+THE SIEGE OF PARADISE 26.09.2026 21:15 23:06 86 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Italienisch, Englisch en, de
+LOW LIES THE LAND 26.09.2026 21:15 23:12 92 Corso 4 NOW/FUTURE Italienisch en
+FLESH AND FUEL 26.09.2026 21:15 23:10 90 Corso 2 Spielfilm-Wettbewerb Französisch, Englisch, Polnisch de, en
+MUMBO JUMBO 27.09.2026 09:30 10:58 83 Arena 4 ZFF für Kinder Deutsch (Synchronfassung
+SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM 27.09.2026 09:45 11:41 91 Corso 1 ZFF für Kinder Deutsch (Synchronfassung
+ATLAS OF THE UNIVERSE 27.09.2026 09:45 11:15 85 Arena 3 ZFF für Kinder Rumänisch, Ungarisch, Deutsch live eingesprochen
+MUSK 27.09.2026 12:15 16:12 232 KINOKONI 6 Hashtag #artificialintelligence Englisch
+FROM INSIDE OUT - DIE ARCHITEKTUR VON PETER ZUMTHOR 27.09.2026 12:30 14:44 114 KINOKONI 1 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de, en
+SERIFE TAVSAN 27.09.2026 13:00 15:10 105 Corso 4 Spielfilm-Wettbewerb Türkisch de, en
+THE SIEGE OF PARADISE 27.09.2026 13:15 15:06 86 KINOKONI 3 Dokumentarfilm-Wettbewerb Italienisch, Englisch en, de
+# AVIVA UND DIE WURZELN DER MAGIE 27.09.2026 13:30 14:30 Corso 2 ZFF für Kinder Deutsch
+AVIVA UND DIE WURZELN DER MAGIE 27.09.2026 13:30 14:30 - Corso 2 ZFF für Kinder Deutsch
+SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM 27.09.2026 14:00 15:56 91 Arena 3 ZFF für Kinder Deutsch (Synchronfassung
+BOYHOOD 27.09.2026 14:30 17:20 165 Filmpodium Retrospektive: Richard Linklater Englisch de
+EBJä! ADOLF WöLFLI 27.09.2026 14:45 16:45 90 Arthouse Piccadilly Signatures Schweizerdeutsch, Deutsch de
+CLUB KID 27.09.2026 14:45 16:52 122 Corso 1 Gala Premieren Englisch de, fr
+TENZING 27.09.2026 15:00 17:13 128 Kongresssaal Gala Premieren Englisch de
+LE CORSET 27.09.2026 15:30 17:05 90 Corso 2 Signatures Französisch de
+QUEEN AT SEA 27.09.2026 15:30 17:36 121 KINOKONI 1 Gala Premieren Englisch de, fr
+BLIND 27.09.2026 15:30 17:00 60 Arthouse Le Paris Special Screenings Schweizerdeutsch en
+SUMO: SPIRIT WEIGHS NOTHING 27.09.2026 15:45 17:49 99 KINOKONI 3 Dokumentarfilm-Wettbewerb Japanisch, Mongolisch en, de
+TIME AND WATER 27.09.2026 15:45 17:24 94 Corso 4 NOW/FUTURE Englisch, Isländisch de
+CLARISSA 27.09.2026 17:15 19:54 134 KINOKONI 6 Spielfilm-Wettbewerb Englisch en, de
+EDWARD SAID: BETWEEN WORLDS 27.09.2026 17:30 19:42 107 Arthouse Piccadilly Signatures Englisch, Arabisch en
+JOSEPHINE 27.09.2026 17:30 19:49 114 Corso 1 Gala Premieren Englisch de
+FRAU WINKLER VERLäSST DAS HAUS 27.09.2026 18:00 20:18 108 Arthouse Le Paris Gala Premieren Deutsch en
+SCHRECKSCHRAUBE 27.09.2026 18:00 19:55 85 Corso 4 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+THE GUEST 27.09.2026 18:00 20:04 99 Corso 2 Spielfilm-Wettbewerb Dänisch en, de
+THE HOUSEWIFE 27.09.2026 18:00 19:47 102 Arena 4 Gala Premieren Englisch de
+WILD HORSE NINE 27.09.2026 18:00 20:03 118 Kongresssaal Gala Premieren Englisch de, fr
+HEAD TO HEAD 27.09.2026 18:15 20:00 80 KINOKONI 1 Spielfilm-Wettbewerb Persisch en, de
+THE ONLY LIVING PICKPOCKET IN NEW YORK 27.09.2026 18:15 20:08 88 Arena 3 Gala Premieren Englisch de
+BUGBOY 27.09.2026 18:30 20:22 87 KINOKONI 3 Dokumentarfilm-Wettbewerb Griechisch, Englisch en, de
+OUR SHARE OF SAND 27.09.2026 18:45 20:45 95 KINOKONI 2 NOW/FUTURE Englisch, Hindi, Marathi en
+COLD WAR 1994 27.09.2026 19:30 21:32 117 Corso 3 Signatures Kantonesisch zh, en
+HOW TO DIVORCE DURING THE WAR 27.09.2026 20:30 22:43 108 KINOKONI 1 Spielfilm-Wettbewerb Litauisch, Englisch, Ukrainisch, Russisch en, de
+BUCKS HARBOR 27.09.2026 20:30 22:33 98 Corso 4 Dokumentarfilm-Wettbewerb Englisch de
+SEVDA 27.09.2026 20:30 22:41 101 Corso 2 Spielfilm-Wettbewerb Türkisch en, de
+NINO – UN FILM SU NINO ROTA 27.09.2026 20:30 22:52 117 Arthouse Piccadilly Sounds Italienisch, Englisch, Französisch, Koreanisch en
+BABIES 27.09.2026 20:45 22:46 96 Kongresssaal Gala Premieren Englisch de
+DIE IDEEN 27.09.2026 20:45 23:00 110 KINOKONI 6 Spielfilm-Wettbewerb Deutsch, Englisch, Schwedisch en, de
+THE WEIGHT 27.09.2026 20:45 22:45 115 Arena 4 Gala Premieren Englisch de
+BLUE MOON 27.09.2026 20:45 22:30 100 Filmpodium Retrospektive: Richard Linklater Englisch de
+ONE IN A MILLION 27.09.2026 21:00 23:10 105 KINOKONI 3 Dokumentarfilm-Wettbewerb Arabisch, Deutsch, Englisch en, de
+A HAPPY FAMILY 27.09.2026 21:00 23:25 120 Arthouse Le Paris Gala Premieren Schweizerdeutsch en
+LOW LIES THE LAND 27.09.2026 21:15 23:12 92 KINOKONI 2 NOW/FUTURE Italienisch en
+ADULT SUPERVISION 27.09.2026 21:15 23:28 108 Corso 1 Gala Premieren Schwedisch de, en
+THE SIEGE OF PARADISE 28.09.2026 13:45 15:16 86 KINOKONI 3 Dokumentarfilm-Wettbewerb Italienisch, Englisch en, de
+ENJOY YOUR STAY 28.09.2026 14:30 16:34 99 Corso 2 NOW/FUTURE Englisch, Französisch, Tagalog de
+A GIRL UNKNOWN 28.09.2026 15:00 17:10 125 KINOKONI 6 Spielfilm-Wettbewerb Chinesisch en, de, fr
+FINDING CONNECTION 28.09.2026 15:00 16:31 86 Corso 3 Hashtag #artificialintelligence Deutsch, Englisch
+THE GUEST 28.09.2026 15:15 17:19 99 KINOKONI 1 Spielfilm-Wettbewerb Dänisch en, de
+MATERIA PRIMA 28.09.2026 15:30 17:24 89 Arthouse Piccadilly NOW/FUTURE Englisch, Quechua, Spanisch, Aymara de
+LA DéTENTION 28.09.2026 15:45 18:03 133 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch en, de
+A LONG WINTER 28.09.2026 17:15 19:17 117 Corso 3 Signatures Englisch
+DEREK VS. DEREK 28.09.2026 17:30 19:23 88 KINOKONI 2 NOW/FUTURE Englisch de
+ONE IN A MILLION 28.09.2026 17:30 19:40 105 Corso 4 Dokumentarfilm-Wettbewerb Arabisch, Deutsch, Englisch en, de
+DUA 28.09.2026 17:45 19:51 101 KINOKONI 6 Spielfilm-Wettbewerb Albanisch, Serbisch en, de
+HEAD TO HEAD 28.09.2026 18:00 19:45 80 Arthouse Piccadilly Spielfilm-Wettbewerb Persisch en, de
+LIFE SUPPORT 28.09.2026 18:00 19:55 90 KINOKONI 1 NOW/FUTURE Englisch en
+ALTE LIEBE 28.09.2026 18:00 20:21 111 Corso 1 Gala Premieren Deutsch en
+THE ONLY LIVING PICKPOCKET IN NEW YORK 28.09.2026 18:00 19:33 88 Arena 4 Gala Premieren Englisch de
+DOLPHINS: MY CLOSE ENCOUNTERS 28.09.2026 18:30 20:20 80 Arthouse Le Paris Gala Premieren Englisch de, en
+BUGBOY 28.09.2026 18:30 20:22 87 KINOKONI 3 Dokumentarfilm-Wettbewerb Griechisch, Englisch en, de
+BURGUNDY 28.09.2026 18:30 20:23 88 Corso 2 Gala Premieren Französisch en, de
+TENZING 28.09.2026 18:30 20:43 128 Kongresssaal Gala Premieren Englisch de
+SEVDA 28.09.2026 20:15 22:21 101 Arthouse Piccadilly Spielfilm-Wettbewerb Türkisch en, de
+EBJä! ADOLF WöLFLI 28.09.2026 20:15 22:10 90 KINOKONI 2 Signatures Schweizerdeutsch, Deutsch de
+HOPE 28.09.2026 20:15 23:00 160 Arena 4 Gala Premieren Koreanisch de
+CLARISSA 28.09.2026 20:30 23:09 134 Corso 4 Spielfilm-Wettbewerb Englisch en, de
+SCHRECKSCHRAUBE 28.09.2026 20:30 22:20 85 KINOKONI 6 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+JOSEPHINE 28.09.2026 20:45 23:04 114 KINOKONI 1 Gala Premieren Englisch de
+COMPANY 28.09.2026 20:45 22:42 92 Corso 1 Gala Premieren Englisch de
+MISTY GREEN 28.09.2026 20:45 22:34 104 Arena 3 Sounds Englisch en
+HEIMSUCHUNG 28.09.2026 21:00 23:27 122 Arthouse Le Paris Gala Premieren Deutsch
+BUCKS HARBOR 28.09.2026 21:00 23:03 98 KINOKONI 3 Dokumentarfilm-Wettbewerb Englisch de
+Où EST AVA ? 28.09.2026 21:00 23:02 92 Corso 2 Gala Premieren Französisch de, en
+WICKER 28.09.2026 21:15 23:30 105 Kongresssaal Gala Premieren Englisch de, fr
+DEREK VS. DEREK 29.09.2026 13:00 14:53 88 Arthouse Piccadilly NOW/FUTURE Englisch de
+THE MATCH 29.09.2026 13:30 15:03 88 Corso 4 Dokumentarfilm-Wettbewerb Englisch de
+DOLPHINS: MY CLOSE ENCOUNTERS 29.09.2026 14:00 15:45 80 Corso 2 Gala Premieren Englisch de, en
+A HAPPY FAMILY 29.09.2026 14:30 16:55 120 KINOKONI 1 Gala Premieren Schweizerdeutsch en
+ONE IN A MILLION 29.09.2026 15:00 16:50 105 KINOKONI 3 Dokumentarfilm-Wettbewerb Arabisch, Deutsch, Englisch en, de
+DUA 29.09.2026 15:15 17:21 101 KINOKONI 6 Spielfilm-Wettbewerb Albanisch, Serbisch en, de
+PERFECT ROAD 29.09.2026 15:30 17:06 91 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch, Französisch en, de
+EL DESHIELO 29.09.2026 15:30 17:23 108 Corso 4 Spielfilm-Wettbewerb Spanisch, Englisch, Deutsch de, en, fr
+HOT WATER 29.09.2026 16:00 17:42 97 Arthouse Le Paris Spielfilm-Wettbewerb Englisch, Arabisch, Französisch en, de
+DAS GETRäUMTE ABENTEUER 29.09.2026 17:30 20:42 167 KINOKONI 1 Signatures Bulgarisch de, fr
+COLORS OF WHITE ROCK 29.09.2026 17:45 19:33 83 KINOKONI 3 Dokumentarfilm-Wettbewerb Mongolisch en, de
+MILA / MARIJA 29.09.2026 17:45 19:40 110 Arthouse Piccadilly Spielfilm-Wettbewerb Slowenisch, Englisch, Deutsch de, en
+THE HAMMER 29.09.2026 18:00 19:52 77 Corso 2 Gala Premieren Englisch de
+MY HOME OF WIND AND SAND 29.09.2026 18:00 20:12 102 KINOKONI 6 Dokumentarfilm-Wettbewerb Englisch, Arabisch, Spanisch, Deutsch en, de
+LE CORSET 29.09.2026 18:00 19:55 90 Corso 4 Signatures Französisch de
+MISTY GREEN 29.09.2026 18:00 19:49 104 Arena 4 Sounds Englisch en
+ULTIMATE THUNDER 29.09.2026 18:15 20:19 99 KINOKONI 2 Sounds Englisch en
+COMPANY 29.09.2026 18:15 20:12 92 Arthouse Le Paris Gala Premieren Englisch de
+BUNKER 29.09.2026 18:15 20:26 126 Kongresssaal Gala Premieren Spanisch, Englisch de
+111 - ECHOES FROM HALIFAX 29.09.2026 18:30 20:32 97 Corso 1 Gala Premieren Englisch, Deutsch, Französisch de
+MUSK 29.09.2026 19:30 23:27 232 Arena 3 Hashtag #artificialintelligence Englisch
+WE ARE BORN GOOD 29.09.2026 20:00 21:41 96 Corso 3 Signatures Kantonesisch zh, en
+LA FACE CACHéE DE LA TERRE 29.09.2026 20:15 21:48 68 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+QUEEN AT SEA 29.09.2026 20:15 22:21 121 Arthouse Piccadilly Gala Premieren Englisch de, fr
+POSSIBLE LOVE 29.09.2026 20:30 23:19 164 Arena 4 Gala Premieren Koreanisch de, en
+SI TU PENSES BIEN 29.09.2026 20:45 22:44 94 Arthouse Le Paris Gala Premieren Französisch de
+HOW TO DIVORCE DURING THE WAR 29.09.2026 20:45 22:58 108 KINOKONI 6 Spielfilm-Wettbewerb Litauisch, Englisch, Ukrainisch, Russisch en, de
+ALTE LIEBE 29.09.2026 20:45 23:01 111 Corso 2 Gala Premieren Deutsch en
+MATERIA PRIMA 29.09.2026 21:00 22:54 89 KINOKONI 2 NOW/FUTURE Englisch, Quechua, Spanisch, Aymara de
+INK 29.09.2026 21:00 23:11 116 Kongresssaal Gala Premieren Englisch de, fr
+THE GUEST 29.09.2026 21:15 22:59 99 KINOKONI 1 Spielfilm-Wettbewerb Dänisch en, de
+CLUB KID 29.09.2026 21:15 23:22 122 Corso 1 Gala Premieren Englisch de, fr
+MUMBO JUMBO 30.09.2026 13:00 14:28 83 Arena 3 ZFF für Kinder Deutsch (Synchronfassung
+COLORS OF WHITE ROCK 30.09.2026 13:00 14:48 83 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Mongolisch en, de
+WE ARE STARDUST 30.09.2026 13:15 15:01 101 KINOKONI 3 Dokumentarfilm-Wettbewerb Englisch, Norwegisch en, de
+THE HAMMER 30.09.2026 13:30 15:12 77 Corso 4 Gala Premieren Englisch de
+HEAD TO HEAD 30.09.2026 13:45 15:10 80 KINOKONI 6 Spielfilm-Wettbewerb Persisch en, de
+DAS GEHEIMNIS DER GESTOHLENEN MASKE 30.09.2026 14:30 16:35 100 Arena 4 ZFF für Kinder Deutsch
+111 - ECHOES FROM HALIFAX 30.09.2026 15:00 17:02 97 Arthouse Le Paris Gala Premieren Englisch, Deutsch, Französisch de
+FRAU WINKLER VERLäSST DAS HAUS 30.09.2026 15:15 17:08 108 Corso 2 Gala Premieren Deutsch en
+ATLAS OF THE UNIVERSE 30.09.2026 15:30 17:20 85 Arena 3 ZFF für Kinder Rumänisch, Ungarisch, Deutsch live eingesprochen
+DIE IDEEN 30.09.2026 15:30 17:25 110 KINOKONI 3 Spielfilm-Wettbewerb Deutsch, Englisch, Schwedisch en, de
+SI TU PENSES BIEN 30.09.2026 15:45 17:24 94 KINOKONI 1 Gala Premieren Französisch de
+HOT WATER 30.09.2026 15:45 17:27 97 Corso 4 Spielfilm-Wettbewerb Englisch, Arabisch, Französisch en, de
+MY HOME OF WIND AND SAND 30.09.2026 15:45 17:52 102 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch, Arabisch, Spanisch, Deutsch en, de
+EBJä! ADOLF WöLFLI 30.09.2026 17:00 18:55 90 Corso 3 Signatures Schweizerdeutsch, Deutsch de
+LONG SHOT - A FILIPINO CURLING TALE 30.09.2026 17:45 20:07 112 Corso 1 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de
+HOW TO DIVORCE DURING THE WAR 30.09.2026 17:45 19:38 108 KINOKONI 6 Spielfilm-Wettbewerb Litauisch, Englisch, Ukrainisch, Russisch en, de
+THE DEBUT 30.09.2026 18:00 19:50 105 Arena 4 Gala Premieren Englisch de, fr
+FROM INSIDE OUT - DIE ARCHITEKTUR VON PETER ZUMTHOR 30.09.2026 18:00 20:24 114 KINOKONI 1 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de, en
+Genuss Film Noor: Cocinar Pasados Posibles | The Chedi Andermatt 30.09.2026 18:15 20:05 110 Arena 3 ZFF Genuss Film Spanisch en
+ULTIMATE THUNDER 30.09.2026 18:15 20:19 99 KINOKONI 2 Sounds Englisch en
+GURIA 30.09.2026 18:15 20:18 118 Corso 4 Signatures Georgisch de, fr
+GARDI HUTTER - DA ZERO 30.09.2026 18:15 20:05 80 Corso 2 Signatures Deutsch, Schweizerdeutsch, Italienisch
+LA FACE CACHéE DE LA TERRE 30.09.2026 18:30 20:03 68 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+LIEBLINGSMENSCHEN 30.09.2026 18:30 20:43 108 Arthouse Le Paris Gala Premieren Deutsch
+A SCANNER DARKLY 30.09.2026 18:30 20:15 100 Filmpodium Retrospektive: Richard Linklater Englisch de
+WICKER 30.09.2026 18:45 20:35 105 Kongresssaal Gala Premieren Englisch de, fr
+SHEEP IN THE BOX 30.09.2026 20:15 22:26 126 KINOKONI 6 Hashtag #artificialintelligence Japanisch de, fr
+LIFE SUPPORT 30.09.2026 20:30 22:05 90 Arthouse Piccadilly NOW/FUTURE Englisch en
+THE MATCH 30.09.2026 20:30 22:03 88 KINOKONI 3 Dokumentarfilm-Wettbewerb Englisch de
+COMPANY 30.09.2026 20:30 22:07 92 Arena 4 Gala Premieren Englisch de
+A TALENT FOR MURDER 30.09.2026 20:45 22:56 106 Corso 1 Gala Premieren Englisch de, fr
+THE END OF IT 30.09.2026 20:45 22:32 102 Arena 3 Hashtag #artificialintelligence Englisch
+MOSCAS 30.09.2026 21:00 23:04 99 KINOKONI 1 Signatures Spanisch de, fr
+RESCUE 30.09.2026 21:00 22:47 82 KINOKONI 2 NOW/FUTURE Arabisch, Englisch, Italienisch, Deutsch en, de
+SUMO: SPIRIT WEIGHS NOTHING 30.09.2026 21:15 22:59 99 Corso 4 Dokumentarfilm-Wettbewerb Japanisch, Mongolisch en, de
+DIE ZUKUNFT IST VERGANGENHEIT 30.09.2026 21:15 23:24 99 Corso 2 Sounds Schweizerdeutsch, Deutsch, Englisch
+THE HOUSEWIFE 30.09.2026 21:15 23:02 102 Kongresssaal Gala Premieren Englisch de
+EUROTRASH 30.09.2026 21:15 23:20 95 Arthouse Le Paris Gala Premieren Deutsch
+DAS GETRäUMTE ABENTEUER 01.10.2026 12:15 15:27 167 KINOKONI 6 Signatures Bulgarisch de, fr
+SCHRECKSCHRAUBE 01.10.2026 13:30 15:00 85 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+GARDI HUTTER - DA ZERO 01.10.2026 13:30 15:15 80 Corso 2 Signatures Deutsch, Schweizerdeutsch, Italienisch
+BEFORE SUNSET 01.10.2026 15:00 16:25 80 Filmpodium Retrospektive: Richard Linklater Englisch de, fr
+HEIMSUCHUNG 01.10.2026 15:15 17:42 122 Arthouse Le Paris Gala Premieren Deutsch
+Où EST AVA ? 01.10.2026 15:15 17:12 92 KINOKONI 1 Gala Premieren Französisch de, en
+MY HOME OF WIND AND SAND 01.10.2026 15:45 17:32 102 KINOKONI 3 Dokumentarfilm-Wettbewerb Englisch, Arabisch, Spanisch, Deutsch en, de
+LONG SHOT - A FILIPINO CURLING TALE 01.10.2026 15:45 18:02 112 Corso 2 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de
+SERIFE TAVSAN 01.10.2026 16:00 17:50 105 KINOKONI 6 Spielfilm-Wettbewerb Türkisch de, en
+EVERYTIME 01.10.2026 16:00 18:04 119 Corso 4 Signatures Deutsch, Spanisch de, fr
+COLORS OF WHITE ROCK 01.10.2026 16:00 17:28 83 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Mongolisch en, de
+GHOST IN THE MACHINE 01.10.2026 17:30 19:11 96 KINOKONI 2 Hashtag #artificialintelligence Englisch
+LA BOLA NEGRA 01.10.2026 17:45 20:25 155 KINOKONI 1 Signatures Spanisch, Französisch de
+Genuss Film Nobu | The Japanese 01.10.2026 18:00 19:50 110 Arena 3 ZFF Genuss Film Englisch
+MILA / MARIJA 01.10.2026 18:00 19:55 110 Arthouse Piccadilly Spielfilm-Wettbewerb Slowenisch, Englisch, Deutsch de, en
+BABIES 01.10.2026 18:00 19:41 96 Kongresssaal Gala Premieren Englisch de
+A TALENT FOR MURDER 01.10.2026 18:00 20:01 106 Corso 1 Gala Premieren Englisch de, fr
+FLESH AND FUEL 01.10.2026 18:15 19:50 90 KINOKONI 6 Spielfilm-Wettbewerb Französisch, Englisch, Polnisch de, en
+ONCE UPON A TIME IN HARLEM 01.10.2026 18:15 20:00 100 Corso 3 Signatures Englisch en
+LA DéTENTION 01.10.2026 18:30 20:48 133 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch en, de
+VATERLAND 01.10.2026 18:30 20:17 82 Arthouse Le Paris Gala Premieren Deutsch en
+LIEBLINGSMENSCHEN 01.10.2026 18:30 20:43 108 Arena 4 Gala Premieren Deutsch
+FRAU WINKLER VERLäSST DAS HAUS 01.10.2026 18:30 20:23 108 Corso 2 Gala Premieren Deutsch en
+OUR SHARE OF SAND 01.10.2026 18:45 20:25 95 Corso 4 NOW/FUTURE Englisch, Hindi, Marathi en
+COLD WAR 1994 01.10.2026 20:00 22:02 117 KINOKONI 2 Signatures Kantonesisch zh, en
+INK 01.10.2026 20:15 22:16 116 Kongresssaal Gala Premieren Englisch de, fr
+VIOLETTE 01.10.2026 20:30 23:18 138 Corso 1 Gala Premieren Französisch de
+BUGBOY 01.10.2026 20:30 22:02 87 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Griechisch, Englisch en, de
+AI: PROBABLY NOTHING TO WORRY ABOUT 01.10.2026 20:45 22:58 128 Corso 3 Hashtag #artificialintelligence Englisch en
+DIE ZUKUNFT IST VERGANGENHEIT 01.10.2026 20:45 22:49 99 KINOKONI 6 Sounds Schweizerdeutsch, Deutsch, Englisch
+BERNIE 01.10.2026 20:45 22:34 104 Filmpodium Retrospektive: Richard Linklater
+UN BON PETIT SOLDAT 01.10.2026 21:00 22:47 102 Arthouse Le Paris Gala Premieren Französisch de
+EUROTRASH 01.10.2026 21:00 22:40 95 KINOKONI 1 Gala Premieren Deutsch
+GENTLE MONSTER 01.10.2026 21:00 23:19 114 Corso 2 Signatures Deutsch, Englisch, Französisch de, fr
+SEVDA 01.10.2026 21:15 23:01 101 KINOKONI 3 Spielfilm-Wettbewerb Türkisch en, de
+BLACK CHURCH BAY 01.10.2026 21:15 23:07 107 Corso 4 Spielfilm-Wettbewerb Englisch de
+SI TU PENSES BIEN 01.10.2026 21:15 22:54 94 Arena 4 Gala Premieren Französisch de
+KNIFE: THE ATTEMPTED MURDER OF SALMAN RUSHDIE 02.10.2026 13:00 14:52 107 Arthouse Piccadilly NOW/FUTURE Englisch en
+WE ARE STARDUST 02.10.2026 13:00 14:46 101 Corso 4 Dokumentarfilm-Wettbewerb Englisch, Norwegisch en, de
+BUGBOY 02.10.2026 13:30 15:02 87 KINOKONI 3 Dokumentarfilm-Wettbewerb Griechisch, Englisch en, de
+EDWARD SAID: BETWEEN WORLDS 02.10.2026 14:30 16:22 107 KINOKONI 2 Signatures Englisch, Arabisch en
+BURGUNDY 02.10.2026 15:00 16:33 88 Arthouse Le Paris Gala Premieren Französisch en, de
+LONG SHOT - A FILIPINO CURLING TALE 02.10.2026 15:00 17:17 112 Arena 3 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de
+CLARISSA 02.10.2026 15:15 17:34 134 Corso 4 Spielfilm-Wettbewerb Englisch en, de
+THE MATCH 02.10.2026 15:30 17:03 88 KINOKONI 6 Dokumentarfilm-Wettbewerb Englisch de
+BUCKS HARBOR 02.10.2026 15:30 17:13 98 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch de
+DOLPHINS: MY CLOSE ENCOUNTERS 02.10.2026 15:30 16:55 80 Corso 2 Gala Premieren Englisch de, en
+LIFE SUPPORT 02.10.2026 15:45 17:20 90 KINOKONI 3 NOW/FUTURE Englisch en
+TIME AND WATER 02.10.2026 16:00 17:39 94 KINOKONI 1 NOW/FUTURE Englisch, Isländisch de
+ONCE UPON A TIME IN HARLEM 02.10.2026 16:00 17:45 100 Corso 3 Signatures Englisch en
+RESCUE 02.10.2026 17:00 18:47 82 KINOKONI 2 NOW/FUTURE Arabisch, Englisch, Italienisch, Deutsch en, de
+LES MISéRABLES 02.10.2026 17:30 20:33 178 Arthouse Le Paris Gala Premieren Französisch de
+A GIRL UNKNOWN 02.10.2026 17:45 20:15 125 KINOKONI 6 Spielfilm-Wettbewerb Chinesisch en, de, fr
+NINO – UN FILM SU NINO ROTA 02.10.2026 17:45 20:07 117 Arthouse Piccadilly Sounds Italienisch, Englisch, Französisch, Koreanisch en
+BLOOD MONEY 02.10.2026 17:45 20:05 110 Corso 1 Gala Premieren Albanisch, Deutsch de, en
+DUA 02.10.2026 18:00 19:46 101 KINOKONI 3 Spielfilm-Wettbewerb Albanisch, Serbisch en, de
+A TALENT FOR MURDER 02.10.2026 18:00 19:51 106 Arena 4 Gala Premieren Englisch de, fr
+Genuss Film Isabel | IGNIV 02.10.2026 18:15 19:45 85 Arena 3 ZFF Genuss Film Portugiesisch en
+DIE BLUTGRäFIN 02.10.2026 18:15 20:39 119 Corso 2 Signatures Deutsch, Frazösisch
+MOSCAS 02.10.2026 18:15 20:19 99 KINOKONI 1 Signatures Spanisch de, fr
+DIE IDEEN 02.10.2026 18:30 20:25 110 Corso 4 Spielfilm-Wettbewerb Deutsch, Englisch, Schwedisch en, de
+I PLAY ROCKY 02.10.2026 18:30 20:43 128 Kongresssaal Gala Premieren Englisch de, fr
+ULTIMATE THUNDER 02.10.2026 19:30 21:14 99 Corso 3 Sounds Englisch en
+GURIA 02.10.2026 20:00 22:23 118 KINOKONI 2 Signatures Georgisch de, fr
+LA FACE CACHéE DE LA TERRE 02.10.2026 20:15 21:28 68 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+FROM INSIDE OUT - DIE ARCHITEKTUR VON PETER ZUMTHOR 02.10.2026 20:15 22:14 114 Arena 3 Gala Premieren Deutsch, Schweizerdeutsch, Englisch de, en
+RITORNO A BUENOS AIRES 02.10.2026 20:30 22:19 104 Arena 4 Gala Premieren Italienisch de, fr
+EL DESHIELO 02.10.2026 20:45 22:38 108 Arthouse Piccadilly Spielfilm-Wettbewerb Spanisch, Englisch, Deutsch de, en, fr
+HA-CHAN, SHAKE YOUR BOOTY! 02.10.2026 20:45 22:52 122 KINOKONI 6 Sounds Englisch, Japanisch, Spanisch de
+ADULT SUPERVISION 02.10.2026 20:45 22:38 108 Corso 1 Gala Premieren Schwedisch de, en
+SLACKER 02.10.2026 20:45 22:27 97 Filmpodium Retrospektive: Richard Linklater Englisch de, fr
+BUCKING FASTARD 02.10.2026 21:00 22:54 109 Corso 4 Signatures Englisch
+HOPE 02.10.2026 21:00 23:45 160 KINOKONI 1 Gala Premieren Koreanisch de
+VIOLETTE 02.10.2026 21:15 23:38 138 Corso 2 Gala Premieren Französisch de
+WICKER 02.10.2026 21:15 23:05 105 Kongresssaal Gala Premieren Englisch de, fr
+VATERLAND 02.10.2026 21:15 23:02 82 Arthouse Le Paris Gala Premieren Deutsch en
+MUMBO JUMBO 03.10.2026 09:30 10:58 83 KINOKONI 6 ZFF für Kinder Deutsch (Synchronfassung)
+EXTRAORDINARY 03.10.2026 11:00 12:48 83 KINOKONI 3 ZFF für Kinder Kroatisch, Deutsch live eingesprochen
+DE RäGEBOGEFISCH 03.10.2026 11:00 12:40 70 Corso 1 ZFF für Kinder Schweizerdeutsch
+DAS GEHEIMNIS DER GESTOHLENEN MASKE 03.10.2026 11:45 13:50 100 KINOKONI 6 ZFF für Kinder Deutsch
+ENJOY YOUR STAY 03.10.2026 12:45 14:39 99 KINOKONI 1 NOW/FUTURE Englisch, Französisch, Tagalog de
+PERFECT ROAD 03.10.2026 13:00 14:36 91 Corso 4 Dokumentarfilm-Wettbewerb Englisch, Französisch en, de
+VIOLETTE 03.10.2026 13:00 15:23 138 Corso 2 Gala Premieren Französisch de
+BUCKS HARBOR 03.10.2026 13:30 15:13 98 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch de
+COLORS OF WHITE ROCK 03.10.2026 13:30 14:58 83 KINOKONI 3 Dokumentarfilm-Wettbewerb Mongolisch en, de
+BLOOD MONEY 03.10.2026 13:30 15:35 110 Corso 1 Gala Premieren Albanisch, Deutsch de, en
+LA LUNE AVEC LES DENTS 03.10.2026 14:15 15:50 80 KINOKONI 6 Signatures Französisch de
+THE HAMMER 03.10.2026 14:15 15:37 77 Corso 3 Gala Premieren Englisch de
+NINO – UN FILM SU NINO ROTA 03.10.2026 14:30 16:52 117 KINOKONI 2 Sounds Italienisch, Englisch, Französisch, Koreanisch en
+DIE BLUTGRäFIN 03.10.2026 15:15 17:39 119 Corso 4 Signatures Deutsch, Frazösisch
+LA BOLA NEGRA 03.10.2026 15:15 17:55 155 Arthouse Le Paris Signatures Spanisch, Französisch de
+UN BON PETIT SOLDAT 03.10.2026 15:15 17:02 102 KINOKONI 1 Gala Premieren Französisch de
+SCHRECKSCHRAUBE 03.10.2026 15:30 17:00 85 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+THE GYMNASTS OF FISHERMAN COLONY 03.10.2026 15:45 17:42 92 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Urdu, Bengalisch, Englisch en, de
+LIEBLINGSMENSCHEN 03.10.2026 16:00 17:53 108 Corso 1 Gala Premieren Deutsch
+DE RäGEBOGEFISCH 03.10.2026 16:15 17:40 70 Corso 2 ZFF für Kinder Schweizerdeutsch
+CLARISSA 03.10.2026 16:45 19:44 134 KINOKONI 6 Spielfilm-Wettbewerb Englisch en, de
+MATERIA PRIMA 03.10.2026 16:45 18:19 89 Corso 3 NOW/FUTURE Englisch, Quechua, Spanisch, Aymara de
+A LONG WINTER 03.10.2026 17:30 19:32 117 KINOKONI 2 Signatures Englisch
+ONE IN A MILLION 03.10.2026 17:45 19:35 105 KINOKONI 3 Dokumentarfilm-Wettbewerb Arabisch, Deutsch, Englisch en, de
+THE END OF IT 03.10.2026 18:00 19:47 102 KINOKONI 1 Hashtag #artificialintelligence Englisch
+BABIES 03.10.2026 18:00 19:41 96 Kongresssaal Gala Premieren Englisch de
+A GIRL UNKNOWN 03.10.2026 18:15 20:45 125 Corso 4 Spielfilm-Wettbewerb Chinesisch en, de, fr
+EUROTRASH 03.10.2026 18:15 19:55 95 Corso 2 Gala Premieren Deutsch
+THE DEBUT 03.10.2026 18:30 20:20 105 Corso 1 Gala Premieren Englisch de, fr
+SUCCEDERà QUESTA NOTTE 03.10.2026 18:30 20:18 103 Arthouse Le Paris Gala Premieren Italienisch, Englisch, Spanisch de
+BLUE MOON 03.10.2026 18:30 20:15 100 Filmpodium Retrospektive: Richard Linklater Englisch de
+SUMO: SPIRIT WEIGHS NOTHING 03.10.2026 18:45 20:29 99 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Japanisch, Mongolisch en, de
+KNIFE: THE ATTEMPTED MURDER OF SALMAN RUSHDIE 03.10.2026 19:00 20:52 107 Corso 3 NOW/FUTURE Englisch en
+DIE ZUKUNFT IST VERGANGENHEIT 03.10.2026 20:15 22:19 99 KINOKONI 2 Sounds Schweizerdeutsch, Deutsch, Englisch
+DUA 03.10.2026 20:30 22:16 101 KINOKONI 6 Spielfilm-Wettbewerb Albanisch, Serbisch en, de
+BUNKER 03.10.2026 20:30 22:41 126 Kongresssaal Gala Premieren Spanisch, Englisch de
+MINOTAUR 03.10.2026 20:30 22:55 140 Corso 2 Gala Premieren Russisch de
+BLACK CHURCH BAY 03.10.2026 20:45 22:37 107 KINOKONI 1 Spielfilm-Wettbewerb Englisch de
+LA FACE CACHéE DE LA TERRE 03.10.2026 21:00 22:13 68 KINOKONI 3 Dokumentarfilm-Wettbewerb Französisch, Englisch en, de
+INK 03.10.2026 21:00 23:01 116 Corso 1 Gala Premieren Englisch de, fr
+SEVDA 03.10.2026 21:00 22:46 101 Arthouse Piccadilly Spielfilm-Wettbewerb Türkisch en, de
+SHEEP IN THE BOX 03.10.2026 21:15 23:26 126 Corso 4 Hashtag #artificialintelligence Japanisch de, fr
+DIAMOND 03.10.2026 21:15 23:28 118 Arthouse Le Paris Gala Premieren Englisch de
+ATLAS OF THE UNIVERSE 04.10.2026 09:30 11:00 85 KINOKONI 3 ZFF für Kinder Rumänisch, Ungarisch, Deutsch live eingesprochen
+LE CORSET 04.10.2026 10:00 11:35 90 KINOKONI 6 ZFF für Schulen Deutsch (Synchronfassung)
+DE RäGEBOGEFISCH 04.10.2026 10:15 11:50 70 KINOKONI 1 ZFF für Kinder Schweizerdeutsch
+MIRA 04.10.2026 10:30 12:00 85 KINOKONI 2 ZFF für Kinder Deutsch (Synchronfassung)
+NOT A HERO 04.10.2026 12:00 13:43 98 KINOKONI 3 ZFF für Kinder Assamesisch, Hindi, Englisch, Deutsch live eingesprochen
+SERIFE TAVSAN 04.10.2026 13:00 14:50 105 Arthouse Piccadilly Spielfilm-Wettbewerb Türkisch de, en
+SHEEP IN THE BOX 04.10.2026 13:00 15:11 126 KINOKONI 6 Hashtag #artificialintelligence Japanisch de, fr
+111 - ECHOES FROM HALIFAX 04.10.2026 13:00 14:42 97 Corso 2 Gala Premieren Englisch, Deutsch, Französisch de
+MUSK 04.10.2026 13:15 17:12 232 Corso 3 Hashtag #artificialintelligence Englisch
+GHOST IN THE MACHINE 04.10.2026 13:15 14:56 96 KINOKONI 2 Hashtag #artificialintelligence Englisch
+THE GYMNASTS OF FISHERMAN COLONY 04.10.2026 13:30 15:27 92 Corso 4 Dokumentarfilm-Wettbewerb Urdu, Bengalisch, Englisch en, de
+LES MISéRABLES 04.10.2026 14:00 17:03 178 Corso 1 Gala Premieren Französisch de
+# GEWINNER SCREENING AUDIENCE AWARD 04.10.2026 15:00 16:35 KINOKONI 3 TBD
+GEWINNER SCREENING AUDIENCE AWARD 04.10.2026 15:00 16:35 - KINOKONI 3 TBD
+MOSCAS 04.10.2026 15:15 16:59 99 Corso 2 Signatures Spanisch de, fr
+JOSEPHINE 04.10.2026 15:15 17:14 114 Arthouse Le Paris Gala Premieren Englisch de
+Où EST AVA ? 04.10.2026 15:30 17:27 92 KINOKONI 2 Gala Premieren Französisch de, en
+THE SIEGE OF PARADISE 04.10.2026 15:45 17:16 86 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Italienisch, Englisch en, de
+HEIMSUCHUNG 04.10.2026 15:45 17:52 122 KINOKONI 1 Gala Premieren Deutsch
+TECHPLOMACY 04.10.2026 16:00 17:38 93 Corso 4 Hashtag #artificialintelligence Englisch, Dänisch en
+LE CORSET 04.10.2026 16:00 17:35 90 KINOKONI 6 Signatures Französisch de
+# GEWINNER SCREENING FEATURE FILM COMPETITION 04.10.2026 17:30 19:05 KINOKONI 3 TBD
+GEWINNER SCREENING FEATURE FILM COMPETITION 04.10.2026 17:30 19:05 - KINOKONI 3 TBD
+A HAPPY FAMILY 04.10.2026 17:30 19:55 120 Corso 2 Gala Premieren Schweizerdeutsch en
+EDWARD SAID: BETWEEN WORLDS 04.10.2026 17:45 19:37 107 Corso 3 Signatures Englisch, Arabisch en
+MISTY GREEN 04.10.2026 18:00 19:49 104 KINOKONI 2 Sounds Englisch en
+VATERLAND 04.10.2026 18:00 19:27 82 Corso 1 Gala Premieren Deutsch en
+WILD HORSE NINE 04.10.2026 18:00 20:03 118 Kongresssaal Gala Premieren Englisch de, fr
+ALTE LIEBE 04.10.2026 18:00 19:56 111 Arthouse Le Paris Gala Premieren Deutsch en
+UN BON PETIT SOLDAT 04.10.2026 18:15 20:02 102 KINOKONI 6 Gala Premieren Französisch de
+HOW TO DIVORCE DURING THE WAR 04.10.2026 18:30 20:23 108 Corso 4 Spielfilm-Wettbewerb Litauisch, Englisch, Ukrainisch, Russisch en, de
+MY HOME OF WIND AND SAND 04.10.2026 18:30 20:17 102 Arthouse Piccadilly Dokumentarfilm-Wettbewerb Englisch, Arabisch, Spanisch, Deutsch en, de
+A BIT OF LIGHT 04.10.2026 18:30 20:02 87 KINOKONI 1 Gala Premieren Persisch de, fr
+ADULT SUPERVISION 04.10.2026 20:00 21:53 108 Corso 1 Gala Premieren Schwedisch de, en
+# GEWINNER SCREENING DOCUMENTARY COMPETITION 04.10.2026 20:15 21:50 KINOKONI 3 TBD
+GEWINNER SCREENING DOCUMENTARY COMPETITION 04.10.2026 20:15 21:50 - KINOKONI 3 TBD
+LOW LIES THE LAND 04.10.2026 20:15 21:52 92 Corso 3 NOW/FUTURE Italienisch en
+BEFORE MIDNIGHT 04.10.2026 20:15 22:09 109 Filmpodium Retrospektive: Richard Linklater Französisch de
+THE GUEST 04.10.2026 20:30 22:14 99 Corso 2 Spielfilm-Wettbewerb Dänisch en, de
+EVERYTIME 04.10.2026 20:30 22:34 119 KINOKONI 2 Signatures Deutsch, Spanisch de, fr
+GENTLE MONSTER 04.10.2026 20:30 22:29 114 Arthouse Le Paris Signatures Deutsch, Englisch, Französisch de, fr
+BUCKING FASTARD 04.10.2026 20:45 22:39 109 KINOKONI 6 Signatures Englisch
+I PLAY ROCKY 04.10.2026 20:45 22:58 128 Kongresssaal Gala Premieren Englisch de, fr
+FLESH AND FUEL 04.10.2026 21:00 22:35 90 Corso 4 Spielfilm-Wettbewerb Französisch, Englisch, Polnisch de, en
+HEAD TO HEAD 04.10.2026 21:00 22:25 80 Arthouse Piccadilly Spielfilm-Wettbewerb Persisch en, de
+BURGUNDY 04.10.2026 21:00 22:33 88 KINOKONI 1 Gala Premieren Französisch en, de
