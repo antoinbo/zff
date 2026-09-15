@@ -56,7 +56,7 @@ for playtime in playtimes:
     print(f"| {playtime.get("film")} | {playtime.get("date")} | {playtime.get("begin")} | {playtime.get("end")} | {playtime.get("minutes")}' | {playtime.get("location")} | {playtime.get("section")} | {", ".join(playtime.get("language"))} | {", ".join(playtime.get("subtitles"))} |")
 
 print("## Failed to parse")
-if len(line):
+if len(unmatched):
     print("```")
     for line in unmatched:
         print(line)
