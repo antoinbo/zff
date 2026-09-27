@@ -12,7 +12,7 @@ class Client:
 
     @staticmethod
     def __json_payload(data):
-        return json.dumps({"json": json})
+        return json.dumps({"json": data})
 
     def query(self, procedure, data=None, json=None):
         url = self.__base_url + procedure
@@ -25,7 +25,7 @@ class Client:
             }
         elif json is not None:
             params = {
-                "input": __json_payload(json)
+                "input": self.__json_payload(json)
             }
 
         response = requests.get(url, params=params)
